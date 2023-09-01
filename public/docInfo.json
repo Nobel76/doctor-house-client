@@ -1,0 +1,26 @@
+[
+    {
+      "doctorName": "Dr. Sarah Smith",
+      "location": "456 Oak Avenue, Townsville",
+      "rating": 4.5,
+      "doctorCategory": "Dermatologist",
+      "time": "9:00 AM - 5:00 PM",
+      "imageURL": "https://i.ibb.co/fF5PvM3/doctor1.jpg"
+    },
+    {
+      "doctorName": "Dr. Michael Johnson",
+      "location": "789 Maple Street, Villagetown",
+      "rating": 4.00,
+      "doctorCategory": "Orthopedic Surgeon",
+      "time": "8:30 AM - 3:30 PM",
+      "imageURL": "https://i.ibb.co/kJcLVBm/doctor3.jpg"
+    },
+    {
+      "doctorName": "Dr. Jennifer Lee",
+      "location": "321 Pine Road, Hamletville",
+      "rating": 4.7,
+      "doctorCategory": "Pediatrician",
+      "time": "10:00 AM - 6:00 PM",
+      "imageURL": "https://i.ibb.co/VVQhgCd/doctor2.jpg"
+    }
+  ]
